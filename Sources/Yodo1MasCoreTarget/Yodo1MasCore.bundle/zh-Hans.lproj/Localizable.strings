@@ -1,0 +1,9 @@
+"yodo1_mas_string_uc_age" = "您的年龄？";
+"yodo1_mas_string_age" = "%@ 岁";
+"yodo1_mas_string_uc_prompt" = "请提供您的年龄，以便我们优化您的游戏体验！";
+"yodo1_mas_string_uc_msg1" = "点击 \"同意\" 按钮, ,表示您已阅读并同意我们的 隐私政策";
+"yodo1_mas_string_uc_msg2" = "点击 \"同意\" 按钮, ,表示您已阅读并同意我们的 用户协议 和 隐私政策";
+"yodo1_mas_string_uc_accept" = "同意";
+"yodo1_mas_string_uc_select_age" = "您还没有设置您的年龄";
+"yodo1_mas_string_protocol_term"= "用户协议";
+"yodo1_mas_string_protocol_privacy" = "隐私政策";

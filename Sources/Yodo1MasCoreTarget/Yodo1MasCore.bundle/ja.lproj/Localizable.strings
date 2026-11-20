@@ -1,0 +1,9 @@
+"yodo1_mas_string_uc_age" = "おいくつですか。";
+"yodo1_mas_string_age" = "%@ 歳です。";
+"yodo1_mas_string_uc_prompt" = "最適なゲーミング体験をご提供できるように、ご年齢情報をご登録ください。";
+"yodo1_mas_string_uc_msg1" = "\"同意します\"ボタンをクリックすることで、弊社のプライバシーポリシーをご確認いただき、同意されたものと見なします。";
+"yodo1_mas_string_uc_msg2" = "\"同意します\"ボタンをクリックすることによって、弊社のユーザー利用規約とプライバシーポリシーをお読みになった上、同意されたものと見なします。";
+"yodo1_mas_string_uc_accept" = "同意します";
+"yodo1_mas_string_uc_select_age" = "ご年齢はまだ設定されていません。";
+"yodo1_mas_string_protocol_term" = "利用規約";
+"yodo1_mas_string_protocol_privacy" = "プライバシーポリシー";

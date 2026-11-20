@@ -1,0 +1,9 @@
+"yodo1_mas_string_uc_age" = "¿Cuántos años tienes?";
+"yodo1_mas_string_age" = "%@ Años";
+"yodo1_mas_string_uc_prompt" = "¡Por favor, indiques tu edad para que podamos optimizar tu experiencia de juego!";
+"yodo1_mas_string_uc_msg1"  = "Pulsando el botón de \"Estoy de acuerdo\" significa que has leído y aceptado nuestra Política de privacidad.";
+"yodo1_mas_string_uc_msg2"  = "Pulsando el botón de \"Estoy de acuerdo\" significa que has leído y aceptado nuestro Acuerdo de usuario y Política de privacidad.";
+"yodo1_mas_string_uc_accept" = "Estoy de acuerdo";
+"yodo1_mas_string_uc_select_age" = "Aún no has establecido tu edad";
+"yodo1_mas_string_protocol_term" = "Acuerdo de usuario";
+"yodo1_mas_string_protocol_privacy" = "Política de privacidad";
